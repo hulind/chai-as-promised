@@ -5,7 +5,7 @@
 
 # About Fork
 
-Fork by hulind, original by domenic (domenic/chai-be-promised).
+Fork by hulind, original by domenic (domenic/chai-be-promised WTFPL lisence).
 
 # Chai Assertions for Promises
 
