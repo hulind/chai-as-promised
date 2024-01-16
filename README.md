@@ -3,6 +3,10 @@
          align="right" valign="top" alt="Promises/A+ logo" />
 </a>
 
+# About Fork
+
+Fork by hulind, original by domenic
+
 # Chai Assertions for Promises
 
 **Chai as Promised** extends [Chai](http://chaijs.com/) with a fluent language for asserting facts about [promises](http://www.slideshare.net/domenicdenicola/callbacks-promises-and-coroutines-oh-my-the-evolution-of-asynchronicity-in-javascript).
