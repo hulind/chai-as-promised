@@ -1,5 +1,5 @@
 import * as chai from "chai";
-import chaiAsPromised from "../../lib/chai-as-promised.js";
+import chaiAsPromised from "../../lib/chai-be-promised.js";
 
 chai.should();
 chai.use(chaiAsPromised);

@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 
+- Renamed to chai-be-promised in accordance with license of fork.
 - Replaced istanbul with nyc.
 - Updated eslint rules.
 - Updated chai to v5.0.0.
@@ -23,9 +24,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Switched from npm to yarn.
 - Renamed test/support/setup.js to test/support/setup.mjs.
 - Switched to esmodule imports in setup.mjs.
-- Moved chai, chai-as-promised, assert, and expect to global scope for tests.
+- Moved chai, chai-be-promised, assert, and expect to global scope for tests.
 
 ### Removed
 
 - travis.yml
-- Removed imports for chai, chai-as-promised, assert, and expect in tests.
+- Removed imports for chai, chai-be-promised, assert, and expect in tests.

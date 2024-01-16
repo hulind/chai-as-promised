@@ -13,7 +13,7 @@
   "report-dir": "./code-coverage",
   "temp-directory": "./code-coverage/tmp",
   "include": [
-    "lib/chai-as-promised.js"
+    "lib/chai-be-promised.js"
   ],
   "exclude": [
     "test/**/*.test.js"

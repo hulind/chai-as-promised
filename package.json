@@ -1,6 +1,6 @@
 {
-  "name": "chai-as-promised",
-  "description": "Extends Chai with assertions about promises. Fork of domenic/chai-as-promised",
+  "name": "chai-be-promised",
+  "description": "Extends Chai with assertions about promises. Fork of domenic/chai-be-promised",
   "keywords": [
     "chai",
     "chai-plugin",
@@ -14,8 +14,8 @@
   "version": "8.0.0",
   "author": "Hugo Lindell <@> ()",
   "license": "WTFPL",
-  "repository": "https://github.com/hulind/chai-as-promised",
-  "main": "./lib/chai-as-promised.js",
+  "repository": "https://github.com/hulind/chai-be-promised",
+  "main": "./lib/chai-be-promised.js",
   "files": [
     "lib"
   ],

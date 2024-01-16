@@ -210,11 +210,11 @@ This will pass any failures of the individual promise assertions up to the test 
 
 ### Node
 
-Do an `npm install chai-as-promised` to get up and running. Then:
+Do an `npm install chai-be-promised` to get up and running. Then:
 
 ```javascript
 var chai = require("chai");
-var chaiAsPromised = require("chai-as-promised");
+var chaiAsPromised = require("chai-be-promised");
 
 chai.use(chaiAsPromised);
 
@@ -227,7 +227,7 @@ chai.should();
 // according to your preference of assertion style
 ```
 
-You can of course put this code in a common test fixture file; for an example using [Mocha](http://mochajs.org), see [the Chai as Promised tests themselves](https://github.com/domenic/chai-as-promised/tree/master/test/).
+You can of course put this code in a common test fixture file; for an example using [Mocha](http://mochajs.org), see [the Chai as Promised tests themselves](https://github.com/domenic/chai-be-promised/tree/master/test/).
 
 **Note when using other Chai plugins:** Chai as Promised finds all currently-registered asserters and promisifies them, at the time it is installed. Thus, you should install Chai as Promised _last_, after any other Chai plugins, if you expect their asserters to be promisified.
 
@@ -237,7 +237,7 @@ To use Chai as Promised in environments that don't support Node.js-like CommonJS
 
 ### Karma
 
-If you're using [Karma](https://karma-runner.github.io/), check out the accompanying [karma-chai-as-promised](https://github.com/vlkosinov/karma-chai-as-promised) plugin.
+If you're using [Karma](https://karma-runner.github.io/), check out the accompanying [karma-chai-be-promised](https://github.com/vlkosinov/karma-chai-be-promised) plugin.
 
 ### Browser/Node Compatibility
 
