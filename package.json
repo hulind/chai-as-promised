@@ -8,7 +8,8 @@
     "async",
     "testing",
     "assertions",
-    "promises"
+    "promises",
+    "promises-aplus"
   ],
   "version": "8.0.0",
   "author": "Hugo Lindell <@> ()",
