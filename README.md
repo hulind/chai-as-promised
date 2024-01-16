@@ -5,7 +5,7 @@
 
 # About Fork
 
-Fork by hulind, original by domenic
+Fork by hulind, original by domenic (domenic/chai-be-promised).
 
 # Chai Assertions for Promises
 

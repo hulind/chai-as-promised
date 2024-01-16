@@ -13,7 +13,7 @@
   ],
   "version": "8.0.0",
   "author": "Hugo Lindell <@> ()",
-  "license": "WTFPL",
+  "license": "rights reserved",
   "repository": "https://github.com/hulind/chai-be-promised",
   "main": "./lib/chai-be-promised.js",
   "files": [
